@@ -22,7 +22,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
 
 
