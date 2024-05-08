@@ -42,7 +42,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 Currently I am pursuing these certifications. I will update this page once I receive them.
 <div>
     
