@@ -16,10 +16,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 |-----------------------------------------------|----------------------------|
 | Pokemon Best Party Simulation Project          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
 | HTB Headless Lab (Penetration Test) | <a href="https://google.com">Will Include Write Up Shortly</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
