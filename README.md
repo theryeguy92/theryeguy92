@@ -8,14 +8,14 @@ I am a computer science student at Vanderbilt University with over 5-6 years in 
 During my studies as a computer science student, I discovered my passion for penetration testing along with developing machine learning modules. I am eager to transition within this field, and aim to pursue these interest as a penetration tester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 Listed below are some side projects that I completed during my free time. Feel free to look at the code/walkthroughs.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Pokemon Best Party Simulation Project          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
-| HTB Headless Lab (Penetration Test) | <a href="https://google.com">Will Include Write Up Shortly</a>|
+| Webscraping and Simulating with Python          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
+| Penetration Test via Cookie Stealing | <a href="https://google.com">Will Include Write Up Shortly</a>|
 
 
 ## Tools
