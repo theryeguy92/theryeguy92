@@ -1,7 +1,7 @@
 # Hello, I'm Ryan Levey
 <a href="https://www.linkedin.com/in/ryan-levey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a computer science student at Vanderbilt University with over 5-6 years in analytics. My spcializations include Machine Learning along with cyber security and penetration testing.
+I am a computer science student at Vanderbilt University with over 5-6 years in analytics. My spcializations include Machine Learning, A/B testing, along with cyber security and penetration testing. Below you will see some of my personal projects, along with my accademic projects. I have included writeups of my penetration test, along with the functionality of my projects. Feel free to reach out if you have any questions.
 
 ## Objective
 
