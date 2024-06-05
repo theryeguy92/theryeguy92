@@ -15,7 +15,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Webscraping and Simulating with Python          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
-| Penetration Test: Pivoting & Privilege Escalation  | <a href="https://github.com/theryeguy92/HTB-Solar-Lab/edit/main/writeup.md">HTB: Solar Labs writeup</a>|
+| Penetration Test: Pivoting & Privilege Escalation  | <a href="https://github.com/theryeguy92/HTB-Solar-Lab">HTB: Solar Labs writeup</a>|
 
 
 ## Tools
