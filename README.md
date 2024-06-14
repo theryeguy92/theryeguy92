@@ -7,7 +7,7 @@ I am a computer science student at Vanderbilt University with over 5-6 years in 
 
 During my studies as a computer science student, I discovered my passion for penetration testing along with developing machine learning modules. I am eager to transition within this field, and aim to pursue these interest as a penetration tester.
 
-## Skills
+## Skills/Projects
 
 
 Listed below are some side projects that I completed during my free time. Feel free to look at the code/walkthroughs.
@@ -16,6 +16,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 |-----------------------------------------------|----------------------------|
 | Webscraping and Simulating with Python          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
 | Penetration Test: Pivoting & Privilege Escalation  | <a href="https://github.com/theryeguy92/HTB-Solar-Lab">HTB: Solar Labs writeup</a>|
+| Penetration Test: Privilege Escalation via Pickle  | <a href="https://github.com/theryeguy92/HTB_Blurry_Writeup/tree/main">HTB: Blurry writeup</a>|
 
 
 ## Tools
