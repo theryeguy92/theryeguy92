@@ -56,3 +56,4 @@ Currently I am pursuing these certifications. I will update this page once I rec
 ## Projects
 - Pokemon Simulation
 - HTB: Solar Labs
+- HTB: Blurry
