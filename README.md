@@ -26,8 +26,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 
 ## Tools
 
-<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
 
 
@@ -35,8 +34,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 
 ## Cloud
 
-<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/-Databricks-FF3621?&style=for-the-badge&logo=databricks&logoColor=white" />
 
 
