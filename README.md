@@ -18,11 +18,11 @@ Listed below are some side projects that I completed during my free time. Feel f
 
 
 ## Languages
-<img src="https://img.shields.io/badge/-Python-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bash-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-C++-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 
 
