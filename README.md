@@ -15,6 +15,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 |-----------------------------------------------|----------------------------|
 | Webscraping and Simulating with Python          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
 | Low-Level System Programing/Advanced Java Programing          | <a href="https://github.com/theryeguy92/Java-NES-Emulator">Nintendo Entertainment System Emulator</a>|
+| Reinforcement Learning with C++ (Roblox Kaiju Cats Game Project)          | <a href="https://github.com/theryeguy92/Reinforcement-Learning-Kaiju-Cats-Roblox">Reinforcement Learning C ++</a>|
 | Penetration Test: Pivoting & Privilege Escalation  | <a href="https://github.com/theryeguy92/HTB-Solar-Lab">HTB: Solar Labs writeup</a>|
 | Penetration Test: Privilege Escalation via Pickle  | <a href="https://github.com/theryeguy92/HTB_Blurry_Writeup/tree/main">HTB: Blurry writeup</a>|
 
