@@ -20,6 +20,8 @@ Listed below are some side projects that I completed during my free time. Feel f
 
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+
 
 
 
