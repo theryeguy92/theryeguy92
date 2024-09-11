@@ -38,16 +38,6 @@ Listed below are some side projects that I completed during my free time. Feel f
 </div>
 
 
-## Certifications
-
-Currently I am pursuing these certifications. I will update this page once I receive them.
-<div>
-    
-<img src="https://img.shields.io/badge/-OSCP-4A4A4A?&style=for-the-badge&logo=offensive-security&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-
 </div>
 
 ## Projects
