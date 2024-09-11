@@ -54,5 +54,6 @@ Listed below are some side projects that I completed during my free time. Feel f
 
 ## Projects
 - Pokemon Simulation
+- Nintendo Entertainment System Emulator (NES)
 - HTB: Solar Labs
 - HTB: Blurry
