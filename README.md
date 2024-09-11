@@ -12,8 +12,18 @@ Listed below are some side projects that I completed during my free time. Feel f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Webscraping and Simulating with Python          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
+| Low-Level System Programing/Advanced Java Programing          | <a href="https://github.com/theryeguy92/Java-NES-Emulator">Nintendo Entertainment System Emulator</a>|
 | Penetration Test: Pivoting & Privilege Escalation  | <a href="https://github.com/theryeguy92/HTB-Solar-Lab">HTB: Solar Labs writeup</a>|
 | Penetration Test: Privilege Escalation via Pickle  | <a href="https://github.com/theryeguy92/HTB_Blurry_Writeup/tree/main">HTB: Blurry writeup</a>|
+
+
+## Languages
+<img src="https://img.shields.io/badge/-Python-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+
 
 
 ## Tools
