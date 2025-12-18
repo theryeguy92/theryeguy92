@@ -14,7 +14,7 @@ Listed below are some side projects that I completed during my free time. Feel f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | PDF Parsing & RAG Pipeline for LLMs          | <a href="https://github.com/theryeguy92/PDF-LLM-Context-Injection-App">LLM Chatbot Application</a>|
-| Webscraping and Simulating with Python          | <a href="https://github.com/TheLeveyBreaks/pokemon_best_party_project">Pokemon Simulation</a>|
+| Post-Grad-AI          | <a href="https://github.com/theryeguy92/Post-Grad-AI">Post-Grad-AI</a>|
 | Low-Level System Programing/Advanced Java Programing          | <a href="https://github.com/theryeguy92/Java-NES-Emulator">Nintendo Entertainment System Emulator</a>|
 | LLM Verification (Token Verification)          | <a href="https://github.com/theryeguy92/WaffleHouse-Magic-Marker-Project">Waffle House Formal Verification (AI Token Verification)</a>|
 | Penetration Test: Pivoting & Privilege Escalation  | <a href="https://github.com/theryeguy92/HTB-Solar-Lab">HTB: Solar Labs writeup</a>|
