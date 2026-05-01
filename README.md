@@ -1,4 +1,4 @@
-# Hey, I'm Ryan Levey 👋
+# Hi, I'm Ryan Levey
 
 <a href="https://www.linkedin.com/in/ryan-levey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -8,7 +8,7 @@ Data Engineer & AI Technical Advisor at UCOR / U.S. Department of Energy. I have
 
 ---
 
-## 🔭 Featured Projects
+## Featured Projects
 
 | Project | What it does |
 |---------|-------------|
