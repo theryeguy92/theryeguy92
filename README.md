@@ -1,24 +1,40 @@
-# Hi, I'm Ryan Levey
+# Ryan Levey
 
 <a href="https://www.linkedin.com/in/ryan-levey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**M.S. Computer Science, Vanderbilt University '25**
+**M.S. Computer Science, Vanderbilt University '25 · Data Engineer & AI Technical Advisor @ UCOR / U.S. Department of Energy**
 
-Data Engineer & AI Technical Advisor at UCOR / U.S. Department of Energy. I have 8+ years in analytics spanning ML, A/B testing, system design, and data engineering. Lately I've been building LLM observability tooling, AI-powered apps, and poking around CTFs for fun.
+I build LLM observability and evaluation tooling. 8+ years in analytics spanning ML, A/B testing, data engineering, and system design — now focused on the infrastructure that makes AI systems measurable and trustworthy.
+
+**Currently building:** LLM eval frameworks, agent tracing tooling, and exploring OpenTelemetry-based observability for AI systems.
 
 ---
 
-## Featured Projects
+## 🤖 AI & Systems Projects
 
 | Project | What it does |
 |---------|-------------|
+| [**llm-eval-harness**](https://github.com/theryeguy92/llm-eval-harness) | Reusable Python framework for LLM evaluation: prompt A/B testing, RAG quality scoring, latency benchmarking, and side-by-side model comparison using LLM-as-judge. Claude vs Gemini benchmarks included. |
 | [**Elio IDE**](https://github.com/theryeguy92/elio-ide) | LLM-native IDE with live WebSocket trace timeline, auto-generated architecture diagrams, and OpenTelemetry instrumentation. Next.js 14 + TypeScript frontend, FastAPI backend. |
 | [**LLM Chatbot App**](https://github.com/theryeguy92/PDF-LLM-Context-Injection-App) | PDF parsing & RAG pipeline — ingest any PDF, query it with an LLM. |
-| [**Post-Grad-AI**](https://github.com/theryeguy92/Post-Grad-AI) | AI-assisted tooling for post-graduation planning. |
-| [**Waffle House Formal Verification**](https://github.com/theryeguy92/WaffleHouse-Magic-Marker-Project) | LLM token verification using formal methods — yes, really. |
+| [**Waffle House Formal Verification**](https://github.com/theryeguy92/WaffleHouse-Magic-Marker-Project) | LLM token verification using formal methods. |
+
+## 🔧 Other Projects
+
+| Project | What it does |
+|---------|-------------|
 | [**NES Emulator**](https://github.com/theryeguy92/Java-NES-Emulator) | Full Nintendo Entertainment System emulator in Java. Low-level CPU & PPU emulation. |
 | [**HTB: Solar Labs**](https://github.com/theryeguy92/HTB-Solar-Lab) | Penetration test writeup: pivoting & privilege escalation. |
 | [**HTB: Blurry**](https://github.com/theryeguy92/HTB_Blurry_Writeup/tree/main) | Penetration test writeup: privilege escalation via Python pickle deserialization. |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=theryeguy92&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theryeguy92&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
 ---
 
