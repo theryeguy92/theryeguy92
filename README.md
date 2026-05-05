@@ -14,9 +14,7 @@ I build LLM observability and evaluation tooling. 8+ years in analytics spanning
 
 | Project | What it does |
 |---------|-------------|
-| [**vecmap**](https://github.com/theryeguy92/vecmap) | GPU-accelerated document similarity engine 
-with graph-based relationship mapping — 
-553M pairs/sec on RTX 5080|
+| [**vecmap**](https://github.com/theryeguy92/vecmap) | GPU-accelerated document similarity engine with graph-based relationship mapping — 553M pairs/sec on RTX 5080|
 | [**llm-eval-harness**](https://github.com/theryeguy92/llm-harness-eval) | Reusable Python framework for LLM evaluation: prompt A/B testing, RAG quality scoring, latency benchmarking, and side-by-side model comparison using LLM-as-judge. Claude vs Gemini benchmarks included. |
 | [**Elio IDE**](https://github.com/theryeguy92/elio-ide) | LLM-native IDE with live WebSocket trace timeline, auto-generated architecture diagrams, and OpenTelemetry instrumentation. Next.js 14 + TypeScript frontend, FastAPI backend. |
 | [**LLM Chatbot App**](https://github.com/theryeguy92/PDF-LLM-Context-Injection-App) | PDF parsing & RAG pipeline — ingest any PDF, query it with an LLM. |
