@@ -8,7 +8,8 @@
 **Data Engineer & AI Technical Advisor — UCOR / U.S. Department of Energy**
 **M.S. Computer Science, Vanderbilt University '25**
 
-LLM evaluation frameworks, agent tracing, and OpenTelemetry-based observability. 8+ years in analytics
+I build the infrastructure that makes AI systems measurable and trustworthy: LLM evaluation
+frameworks, agent tracing, and OpenTelemetry-based observability. 8+ years in analytics
 spanning ML, A/B testing, data engineering, and system design.
 
 </div>
@@ -17,17 +18,18 @@ spanning ML, A/B testing, data engineering, and system design.
 
 ## Featured Projects
 
-| Project | Language | Description |
+| Project | Language | What it does |
 |---------|:--------:|--------------|
 | [**CachePotato**](https://github.com/theryeguy92/CachePotato) | C | Co-designed sparse (MoE) LLM engine that treats SSD, RAM, and CPU cache as one addressable memory space. Trains the router for memory locality, then serves a 736 MB model inside a 512 MB RAM budget. Benchmarked against dense GPT-2 under pre-registered success gates: **+149% throughput where the dense model doesn't fit**, and **42% less paging I/O** from locality-aware routing. Zero runtime dependencies. |
 | [**vecmap**](https://github.com/theryeguy92/vecmap) | Python · CUDA | GPU-accelerated document similarity and knowledge-graph engine — **553M pairwise cosine scores/sec** (~12 ms on an RTX 5080). Custom CUDA kernels over a pybind11 bridge, thresholding into a sparse CSR graph, then BFS / PageRank / Dijkstra / MST to surface coverage gaps and critical nodes across document corpora. |
 | [**llm-eval-harness**](https://github.com/theryeguy92/llm-harness-eval) | Python | Reproducible LLM evaluation framework: YAML or dataset-driven prompts, parallel multi-model runs, 5 evaluators (LLM-as-judge coherence / relevance / faithfulness, plus ROUGE-L and exact match), bootstrap 95% confidence intervals, pairwise comparison with documented position-swap debiasing, and per-call cost tracking. CI green. |
 | [**Elio IDE**](https://github.com/theryeguy92/elio-ide) | TypeScript · Python | Browser-based IDE for writing and debugging AI agents, built around the **run trace** as the primary interface. Every LLM call, tool invocation, memory op, and agent handoff streams over WebSocket in real time; click a trace step and Monaco jumps to the source line. Next.js 14 + FastAPI. |
+| [**EPA Compliance Warehouse**](https://github.com/theryeguy92/EPA-Compliance) | Python · dbt | Modeled warehouse over EPA's Clean Air Act **ICIS-Air** records — 280K facilities, 1.8M evaluations, 283K enforcement actions. A tested dbt star schema on DuckDB: SCD2 snapshot for facility status, incremental `merge` with lookback, contracts on every mart, **92 data tests per build**, sqlfluff lint, and CI that loads a committed sample on every PR. [Live docs →](https://theryeguy92.github.io/EPA-Compliance/) |
 | [**PDF RAG App**](https://github.com/theryeguy92/PDF-LLM-Context-Injection-App) | Python · Terraform | Cloud-native PDF question-answering pipeline: upload and parse PDFs, store content in MySQL, query via an LLM service. Kafka Streams glue four Dockerized services across **Terraform-provisioned AWS infrastructure** (VPC, subnets, security groups, EC2). |
 
 ## Other Projects
 
-| Project | Language | Description |
+| Project | Language | What it does |
 |---------|:--------:|--------------|
 | [**NES Emulator**](https://github.com/theryeguy92/Java-NES-Emulator) | Java | Full Nintendo Entertainment System emulator — cycle-level CPU and PPU emulation. |
 | [**Waffle House — Formal Verification**](https://github.com/theryeguy92/WaffleHouse-Magic-Marker-Project) | nuXmv · Z3 | Modeling the Waffle House "Magic Marker" plate-position ordering system as state machines, then proving its rules and combinations correct with formal verification (nuXmv model checking, Z3 solving). |
@@ -50,10 +52,10 @@ spanning ML, A/B testing, data engineering, and system design.
 
 **Data & Cloud**
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" alt="dbt" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 **Web, Systems & Security**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" /> <img src="https://img.shields.io/badge/Z3-6B4FBB?style=for-the-badge" alt="Z3" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" /> <img src="https://img.shields.io/badge/Z3-6B4FBB?style=for-the-badge" alt="Z3" />
 
 </div>
